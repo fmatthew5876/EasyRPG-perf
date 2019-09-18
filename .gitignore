@@ -1,0 +1,6 @@
+FlameGraph
+*.script
+*.flat
+*.png
+perf.data
+perf.data.old
